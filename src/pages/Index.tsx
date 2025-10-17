@@ -22,7 +22,7 @@ const Index = () => {
       name: 'Premium Hookah Set',
       category: 'hookah',
       price: 12000,
-      image: 'https://cdn.poehali.dev/projects/6ff14c69-5087-43c5-a28f-3c6320ba7c2a/files/1894bdd5-f7ec-4d69-be5c-99f20b4e9354.jpg',
+      image: 'https://cdn.poehali.dev/projects/6ff14c69-5087-43c5-a28f-3c6320ba7c2a/files/4aaa3354-e93d-46f0-be1b-7148eca96da2.jpg',
       badge: 'Хит продаж'
     },
     {
@@ -30,14 +30,14 @@ const Index = () => {
       name: 'Classic Black Hookah',
       category: 'hookah',
       price: 8500,
-      image: 'https://cdn.poehali.dev/projects/6ff14c69-5087-43c5-a28f-3c6320ba7c2a/files/1894bdd5-f7ec-4d69-be5c-99f20b4e9354.jpg'
+      image: 'https://cdn.poehali.dev/projects/6ff14c69-5087-43c5-a28f-3c6320ba7c2a/files/4aaa3354-e93d-46f0-be1b-7148eca96da2.jpg'
     },
     {
       id: 3,
       name: 'Tropical Mix Tobacco',
       category: 'tobacco',
       price: 890,
-      image: 'https://cdn.poehali.dev/projects/6ff14c69-5087-43c5-a28f-3c6320ba7c2a/files/93863616-53d4-4fdf-a2af-e947cfa22ddf.jpg',
+      image: 'https://cdn.poehali.dev/projects/6ff14c69-5087-43c5-a28f-3c6320ba7c2a/files/b43748b2-cfb9-4c1e-bfc3-ea090f9f8f38.jpg',
       badge: 'Новинка'
     },
     {
@@ -45,21 +45,21 @@ const Index = () => {
       name: 'Berry Blast Tobacco',
       category: 'tobacco',
       price: 950,
-      image: 'https://cdn.poehali.dev/projects/6ff14c69-5087-43c5-a28f-3c6320ba7c2a/files/93863616-53d4-4fdf-a2af-e947cfa22ddf.jpg'
+      image: 'https://cdn.poehali.dev/projects/6ff14c69-5087-43c5-a28f-3c6320ba7c2a/files/b43748b2-cfb9-4c1e-bfc3-ea090f9f8f38.jpg'
     },
     {
       id: 5,
       name: 'Mint Fresh Disposable',
       category: 'disposable',
       price: 450,
-      image: 'https://cdn.poehali.dev/projects/6ff14c69-5087-43c5-a28f-3c6320ba7c2a/files/75204341-d7c4-47f9-acf1-305adb6eb406.jpg'
+      image: 'https://cdn.poehali.dev/projects/6ff14c69-5087-43c5-a28f-3c6320ba7c2a/files/13ee6ffd-af19-402a-b052-a88a4c103f71.jpg'
     },
     {
       id: 6,
       name: 'Mango Ice Disposable',
       category: 'disposable',
       price: 450,
-      image: 'https://cdn.poehali.dev/projects/6ff14c69-5087-43c5-a28f-3c6320ba7c2a/files/75204341-d7c4-47f9-acf1-305adb6eb406.jpg',
+      image: 'https://cdn.poehali.dev/projects/6ff14c69-5087-43c5-a28f-3c6320ba7c2a/files/13ee6ffd-af19-402a-b052-a88a4c103f71.jpg',
       badge: 'Новинка'
     }
   ];
